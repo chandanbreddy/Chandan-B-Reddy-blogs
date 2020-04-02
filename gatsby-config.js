@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Chandan blogs`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `chadaan b reddy`,
+      summary: `who lives in bangalore and studies 2nd year bca at sindhi college , passionate about programming `,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https:chandanbreddyblogs.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `chandanbreddy`,
     },
   },
   plugins: [
